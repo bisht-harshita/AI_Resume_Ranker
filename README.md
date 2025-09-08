@@ -50,3 +50,6 @@ Visit [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
 - language-tool-python
 - spacy
 
+## Acknowledgments
+This project is based on [Smart Resume Analyzer](https://github.com/Hari-2782/Smart-Resume-Analyzer) by Harisanth V, licensed under the MIT License.
+
